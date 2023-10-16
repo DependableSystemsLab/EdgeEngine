@@ -11,7 +11,7 @@ This repository contains the code and data used in the research paper titled "Ed
 
 **board.py**: codes and interfaces for gathering data from the embedded edge platform and frequency configuration adjustment.
 
-**data**: Data regarding the runtime and power consumption of the seven different ML inference applications at 25 and 70ºC. The codes for analyzing the data are also placed in the directory.
+**data**: Data regarding the runtime and power consumption of the seven different ML inference applications at 25 and 70ºC on NVIDIA Jetson TX2. The codes for analyzing the data are also placed in the directory.
 
 ## Citation
 
