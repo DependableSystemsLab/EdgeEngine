@@ -20,7 +20,7 @@ Please cite EdgeEngine's research paper if its code/data helps your research:
     inproceedings{edgeengine23sec,
     title={EdgeEngine: A Thermal-Aware Optimization Framework for Edge Inference},
     author={Ahmadi, Amirhossein and Abdelhafez, Hazem A and Pattabiraman, Karthik and Ripeanu, Matei},
-    booktitle={2023 IEEE/ACM 7th Symposium on Edge Computing (SEC)},
+    booktitle={2023 IEEE/ACM 8th Symposium on Edge Computing (SEC)},
     year={2023},
     organization={IEEE}
     }
