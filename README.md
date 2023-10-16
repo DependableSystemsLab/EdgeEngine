@@ -5,7 +5,7 @@ This repository contains the code and data used in the research paper titled "Ed
 ![alt text](https://imageupload.io/ib/6N9fw2HS70lB2kX_1697415457.png)
 
 ## Code/Data
-**agenet.pyy**: the main codes for the EdgeEngine RL agent.
+**agenet.py**: the main codes for the EdgeEngine RL agent.
 
 **qtable.py**: codes related to the Q-Table and its updates.
 
